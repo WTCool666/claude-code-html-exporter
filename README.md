@@ -1,6 +1,6 @@
 # Claude Code HTML Exporter
 
-![view](https://github.com/WTCool666/claude-code-html-exporter/blob/master/src/1.png)
+![view](https://github.com/WTCool666/claude-code-html-exporter/blob/master/res/1.png)
 
 将 Claude Code CLI 的会话记录（`.jsonl`）导出为美观的、自包含的终端风格 HTML 页面。支持离线浏览、搜索和分享。
 
